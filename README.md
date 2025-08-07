@@ -145,5 +145,5 @@ Raw Audio
 
 - **Phase integrity** is maintained throughout the chain.
 
->The preset outputs masters with **+3–4 dB perceived loudness**, while retaining **93.7% of original transients** and maintaining **broadcast-ready technical compliance**.
+>The preset outputs masters with **+3–4 dB perceived loudness**, while retaining **93.7% of original transients**
 
