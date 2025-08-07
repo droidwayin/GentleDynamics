@@ -1,7 +1,3 @@
-### The Journey Behind GentleDynamics
-
-I am not a professional audio engineer, just an avid music lover. I faced a sonic dilemma when I transitioned from my cherished Sennheiser headphones to a custom-built 5.1 system paired with an affordable amplifier. The magic I once experienced seemed lost. This personal quest began with simple parametric EQ adjustments in EasyEffects, but soon evolved into an obsessive pursuit of that elusive "goldilocks zone" of perfect sound. Countless hours were spent listening,, consulting AI models, and iterating through countless of preset versions.
-
 ### Multiband Dynamic Equalization
 
 This EasyEffects preset constitutes a sophisticated audio chain designed to produce a clean, dynamically controlled final output. The processing aims not to impart a heavy vintage or analogue character but rather to achieve a modern, transparent polish. The resulting audio character will be highly dynamic, textured, and adapt in real-time to the source material, aiming for a sound that is both controlled and rich in detail across the entire frequency spectrum.
