@@ -96,20 +96,21 @@ Conclusion: This is not a "corrective" preset; it is a "character" preset. It im
 
 **Psychoacoustic Transformation Flowchart**
 
+```text
 Raw Audio 
-Raw Audio
-→ [Phase-Coherent Structural EQ]
-│→ Subsonic cleanup (22Hz HPF)
-│→ Perceptual bass contouring (28Hz shelf)
-│→ Masking reduction (90Hz/280Hz cuts)
-└→ Sibilance control (5.2kHz dip)
+→ [Phase-Coherent Structural EQ] 
+  │→ Subsonic cleanup (22Hz HPF)
+  │→ Perceptual bass contouring (28Hz shelf)
+  │→ Masking reduction (90Hz/280Hz cuts)
+  └→ Sibilance control (5.2kHz dip)
 → [Adaptive Multiband Compression]
-│→ Subharmonic enhancement (Upward@20-60Hz)
-│→ Temporal unmasking (Downward@60-150Hz)
-│→ Midrange clarity (Upward@500-2000Hz)
-└→ Air restoration (Upward@12-20kHz)
+  │→ Subharmonic enhancement (Upward@20-60Hz)
+  │→ Temporal unmasking (Downward@60-150Hz)
+  │→ Midrange clarity (Upward@500-2000Hz)
+  └→ Air restoration (Upward@12-20kHz)
 → [True Peak Limiting] (-4dBFS threshold)
 → Output: Broadcast-ready master
+```
 
  **Scientific Principles Applied**
 
