@@ -1,4 +1,4 @@
-### GentleDynamics- Dynamic EasyEffects Preset
+### GentleDynamics - EasyEffects Preset
 
 ### Multiband Dynamic Equalization
 
