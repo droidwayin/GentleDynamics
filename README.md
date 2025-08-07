@@ -4,7 +4,7 @@
 
 ### Multiband Dynamic Equalization
 
-This EasyEffects preset constitutes a sophisticated audio chain designed to produce a clean, dynamically controlled final output. The processing aims not to impart a heavy vintage or analogue character but rather to achieve a modern, transparent polish. The resulting audio character will be highly dynamic, textured, and adapt in real-time to the source material, aiming for a sound that is both controlled and rich in detail across the entire frequency spectrum.
+This EasyEffects preset constitutes a sophisticated audio chain designed to produce a clean, dynamically controlled final output. The processing aims to achieve a modern, transparent polish. The resulting audio character will be highly dynamic, textured, and adapt in real-time to the source material, aiming for a sound that is both controlled and rich in detail across the entire frequency spectrum.
 
 ### Signal Chain Topology and Rationale
 
