@@ -96,7 +96,7 @@ Result: Music feels more natural to follow, with less ear fatigue.
 
 ## Why Only 1 EQ Band? (High-Pass Filter)
 
-This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-band compressor dynamically adjusts all frequencies in real-time, making additional EQ adjustments unnecessary and potentially disruptive to its natural sound enhancement.
+This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-band compressor dynamically adjusts all frequencies in real-time, making additional EQ adjustments unnecessary and potentially disruptive to its natural sound enhancement. The high-pass filter also eases the MBC’s processing by removing unwanted low-end frequencies.
 
 **Key Reasons:**
 
@@ -104,7 +104,7 @@ This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-ban
 - ⚖️ **Avoids Double-Processing:** Adding EQ would fight the compressor's natural adjustments  
 - 🔊 **Headroom Protection:** The 25 Hz filter removes damaging sub-bass rumble
 
-🌟 **The Final Truth**  
+## 🌟 **The Final Truth**  
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
