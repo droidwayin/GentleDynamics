@@ -16,6 +16,7 @@ This preset uses scientifically-backed principles to enhance your listening expe
 - **Vocals:** Clear and natural
 - **Highs:** Detailed but not harsh
 - **Soundstage:** Wider and spatial
+- **Volume Independence:** Maintains clarity and definition even at lower listening volumes
 
 **System-Wide Benefits**
 - 🎧 Headphones: Enhanced spatial cues, reduced listening fatigue  
@@ -45,10 +46,18 @@ Your headphones get the full benefit of psychoacoustic processing
 
 | Enabled | Disabled |
 |---------|----------|
-| Bass sounds deeper but tighter | Bass may sound weaker or boomy |
-| Enhanced vocal clarity | Vocals get buried in instruments |
-| Smoother high-frequency decay | Highs may sound dull or sharp |
-| Sound feels more natural and "spatial" | Soundstage feels flatter |
+| ✅ Bass sounds deeper but tighter | ❌ Bass may sound weaker or boomy |
+| ✅ Enhanced vocal clarity | ❌ Vocals get buried in instruments |
+| ✅ Smoother high-frequency decay | ❌ Highs may sound dull or sharp |
+| ✅ Sound feels more natural and "spatial" | ❌ Soundstage feels flatter |
+
+**Volume-Independent Clarity**  
+This preset maintains exceptional clarity even at lower volumes by:  
+
+- Enhancing subtle details often masked at quiet levels  
+- Balancing frequency response dynamically  
+- Preserving spatial cues regardless of volume  
+- Optimizing the ear's sensitivity curve  
 
 **Why This Matters:**
 
@@ -99,6 +108,33 @@ This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-ban
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
+
+## 🚫 No Major Future Releases Planned
+
+**Why development is ending:**
+
+### Personal Limits Reached
+- I'm not a professional audio engineer  
+- This preset represents my maximum skill level after hours and hours of refinement  
+
+### Testing Constraints
+Created using only:  
+- Sennheiser headphones *(trusting my ears)*  
+- Analog amp + speakers *(real-world validation)*  
+- No professional measurement tools used  
+
+### Open Invitation
+The preset is now **"community property"**.  
+Audio professionals are encouraged to:  
+- Further refine it  
+- Prove its flaws  
+- Create superior derivatives  
+
+---
+
+**My Hope:**  
+This preset serves as a starting point — not an endpoint. Future evolution belongs to the community now.
+
 
 ## Multiband Compressor Parameters (V3)
 
