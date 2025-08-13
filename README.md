@@ -18,11 +18,6 @@ This preset uses scientifically-backed principles to enhance your listening expe
 - **Soundstage:** Wider and spatial
 - **Volume Independence:** Maintains clarity and definition even at lower listening volumes
 
-**System-Wide Benefits**
-- 🎧 Headphones: Enhanced spatial cues, reduced listening fatigue  
-- 🔈 Speakers: Improved room interaction, tighter bass response  
-- 🎛 All Systems: Consistent tonal balance across content types
-
 ⚠️ **Usage Notes**  
 Start with **-6 dB** system volume when first enabling.  
 Allow **48 hours** for your brain to fully adapt to the new sound stage.
@@ -69,13 +64,15 @@ This preset maintains exceptional clarity even at lower volumes by:
 
 When enabling MBC, you'll experience:
 
-- **0–15 seconds:** Subtle "cleaning" effect *(brain adjusting to noise reduction)*
-- **15–60 seconds:** Perceived bass enhancement *(upward compression working)*
+- **0–15 seconds:** Subtle "cleaning" effect 
+- **15–60 seconds:** Perceived clarity enhancement 
 - **1+ minute:** Natural immersion as brain accepts enhanced spatial cues
 
 Disabling MBC will reveal:
 
-- Compressed dynamic range *(especially in complex passages)*
+*brain working harder more to follow music*
+
+- Flatter dynamic range 
 - Reduced spatial depth
 - Less defined frequency balance
 
@@ -109,32 +106,6 @@ This isn't EQ – it's dynamic range optimization using hearing science. Like cl
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
 
-## 🚫 No Major Future Releases Planned
-
-**Why development is ending:**
-
-### Personal Limits Reached
-- I'm not a professional audio engineer  
-- This preset represents my maximum skill level after hours and hours of refinement  
-
-### Testing Constraints
-Created using only:  
-- Sennheiser headphones *(trusting my ears)*  
-- Analog amp + speakers *(real-world validation)*  
-- No professional measurement tools used  
-
-### Open Invitation
-The preset is now **"community property"**.  
-Audio professionals are encouraged to:  
-- Further refine it  
-- Prove its flaws  
-- Create superior derivatives  
-
----
-
-**My Hope:**  
-This preset serves as a starting point — not an endpoint. Future evolution belongs to the community now.
-
 
 ## Multiband Compressor Parameters (V3)
 
@@ -149,5 +120,4 @@ This preset serves as a starting point — not an endpoint. Future evolution bel
 | 7    |          3200 – 8000 |             8000 |             3200.0 |              8000.0 | Upward   |             -28.00 |        10.0 |         80.0 |  1.06 |
 | 8    |         8000 – 20000 |      20000 (top) |             8000.0 |             20000.0 | Upward   |             -32.00 |         5.0 |         60.0 |  1.04 |
 
-(AI assisted writing)
 
