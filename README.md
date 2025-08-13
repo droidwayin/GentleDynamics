@@ -78,7 +78,7 @@ Disabling MBC will reveal:
 
 ⚠️ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
-## 🧠 Fatigue Reduction - Brain-Friendly Time Constants
+## 🧠 Fatigue Reduction
 This preset uses precision-timed processing (tau values) that match how your brain processes sound.
 The MBC significantly reduces listening fatigue during long sessions because:
 
