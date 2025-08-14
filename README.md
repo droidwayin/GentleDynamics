@@ -118,7 +118,7 @@ This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-ban
 
 **Key Reasons:**
 
-- 🎛️ **The MBC is a "Smart EQ":** It constantly fine-tunes frequencies based on what you're hearing  
+- 🎛️ **The MBC acts like a "Smart EQ":** It constantly fine-tunes frequencies based on the source music instantly and dynamically.  
 - ⚖️ **Avoids Double-Processing:** Adding EQ would fight the compressor's natural adjustments  
 - 🔊 **Headroom Protection:** The 25 Hz filter removes damaging sub-bass rumble
 
