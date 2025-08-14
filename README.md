@@ -38,7 +38,7 @@ Your headphones get the full benefit of psychoacoustic processing.
 ## 🔍 Hearing the Difference
 
 **Quick Test Method:**
-1. Play familiar music [Song](https://www.youtube.com/watch?v=oq5X2G5qKQI)
+1. Play familiar music [Song](https://www.youtube.com/watch?v=oq5X2G5qKQI) [Song](https://www.youtube.com/watch?v=V9PVRfjEBTI)
 2. Toggle MBC on/off while listening
 3. Notice these changes:
 
