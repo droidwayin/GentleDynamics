@@ -3,7 +3,8 @@ This EasyEffects preset uses psychoacoustic principles to enhance your audio exp
 
 This preset uses scientifically-backed principles to enhance your listening experience:  
 
-- **Bark Scale Alignment**: 8 frequency bands matching human auditory perception  
+- **Bark Scale Alignment**: 8 frequency bands matching human auditory perception
+- **Automatic Calibration**: Self-adjusting to your audio content
 - **Time Constant Optimization**: Attack/release times match neural processing speeds  
 - **Upward Compression**: Boosts quiet details without making loud sounds harsh  
 - **Dynamic Effect**: Multiband compression creates natural tonal balance  
@@ -11,11 +12,11 @@ This preset uses scientifically-backed principles to enhance your listening expe
 
 ## 🎚️ Sound Improvements:
 
-- **Bass:** Powerful yet controlled, no boominess
-- **Midrange:** Natural instrument reproduction
-- **Vocals:** Clear and natural
-- **Highs:** Detailed but not harsh
-- **Soundstage:** Wider and spatial
+- **Sub-bass (20-100Hz):** Physical rumble without distortion, no boominess
+- **Bass (100-200Hz):** Tight and controlled foundation
+- **Mid-range (200-3200Hz):** Natural vocal and instrument clarity
+- **Highs (3200Hz+):** Detailed brilliance without harshness
+- **Soundstage:** Expanded width and depth with precise imaging
 - **Volume Independence:** Maintains clarity and definition even at lower listening volumes
 
 ⚠️ **Usage Notes**  
@@ -26,11 +27,13 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 Place your AutoEQ headset correction profile (if you have any) **after** the MBC:<br><br>
 Source → [25Hz EQ Filter] → [8-Band MBC] → [Your AutoEQ Profile] → [Limiter] → Output
 
-- Let psychoacoustic processing enhance your headphones' natural response  
-- Prevent EQ corrections from being altered by compression  
-- Maintain precise frequency correction  
+**Why This Order Matters**
 
-Your headphones get the full benefit of psychoacoustic processing
+- The MBC needs to analyze the original recording dynamics
+- Headphone correction changes frequency response, which would alter how the MBC processes sound
+- Placing correction after MBC preserves spatial cues and dynamic processing integrity
+
+Your headphones get the full benefit of psychoacoustic processing.
 
 ## 🔍 Hearing the Difference
 
@@ -39,12 +42,23 @@ Your headphones get the full benefit of psychoacoustic processing
 2. Toggle MBC on/off while listening
 3. Notice these changes:
 
-| Enabled | Disabled |
-|---------|----------|
-| ✅ Bass sounds deeper but tighter | ❌ Bass may sound weaker or boomy |
-| ✅ Enhanced vocal clarity | ❌ Vocals get buried in instruments |
-| ✅ Smoother high-frequency decay | ❌ Highs may sound dull or sharp |
-| ✅ Sound feels more natural and "spatial" | ❌ Soundstage feels flatter |
+| Aspect              | With MBC Enabled                                | With MBC Disabled                      |
+|---------------------|-------------------------------------------------|----------------------------------------|
+| Bass Detail         | ✅ Deeper but tighter                           | Less defined, more blended             |
+| Vocal Clarity       | ✅ Enhanced clarity, more intelligible words    | Slightly muffled                       |
+| Cymbal Decay        | ✅ Smoother high-frequency decay                | Highs may sound dull or sharp, Quicker fade-out  |
+| Background Details  | ✅ Subtle elements more audible                 | Harder to distinguish                  |
+| Overall Fatigue     | ✅ Less listening fatigue                       | More fatigue at high volumes           |
+
+> Note: The difference is often perceived as "removing a thin veil" rather than dramatic change. Your brain may initially interpret it as slightly quieter but clearer sound.
+
+**Why Some Songs Show Minimal or No Change?**  
+This preset reveals existing quality rather than adding effects. You'll notice:  
+
+- **Responds to source material:** Well-recorded tracks show less change  
+- **Focuses on deficiencies:** Only enhances masked frequencies  
+- **Avoids over-processing:** Never adds artificial effects  
+- **Prioritizes dynamics:** Changes are more apparent in dynamic passages  
 
 **Volume-Independent Clarity**  
 This preset maintains exceptional clarity even at lower volumes by:  
@@ -52,7 +66,14 @@ This preset maintains exceptional clarity even at lower volumes by:
 - Enhancing subtle details often masked at quiet levels  
 - Balancing frequency response dynamically  
 - Preserving spatial cues regardless of volume  
-- Optimizing the ear's sensitivity curve  
+- Optimizing the ear's sensitivity curve
+
+**To see real-time MBC processing in EasyEffects:**
+
+1. Go to **Preferences → Experimental Features**.
+2. Enable **Native Plugin Window**.
+3. In the MBC plugin, click **Show Native Window** to view the real-time processing.
+
 
 **Why This Matters:**
 
