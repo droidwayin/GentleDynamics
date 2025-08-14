@@ -1,5 +1,5 @@
 ## 🌟 Introduction
-This EasyEffects preset uses psychoacoustic principles to enhance your audio experience. It features an 8-band multiband compressor (MBC) aligned with human hearing (Bark scale) for natural sound improvement on both headphones and speakers.
+This EasyEffects preset uses psychoacoustic principles to enhance your music listening experience. It features an 8-band multiband compressor (MBC) aligned with human hearing (Bark scale) for natural sound improvement on both headphones and speakers.
 
 This preset uses scientifically-backed principles to enhance your listening experience:  
 
@@ -121,6 +121,8 @@ This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-ban
 - 🎛️ **The MBC is a "Smart EQ":** It constantly fine-tunes frequencies based on what you're hearing  
 - ⚖️ **Avoids Double-Processing:** Adding EQ would fight the compressor's natural adjustments  
 - 🔊 **Headroom Protection:** The 25 Hz filter removes damaging sub-bass rumble
+
+*Note: The EQ is set to FIR mode for better sound quality (adds some latency); switch to IIR for lower latency at a noticable trade-off in quality.*
 
 ## 🌟 **The Final Truth**  
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
