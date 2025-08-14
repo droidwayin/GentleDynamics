@@ -73,7 +73,7 @@ This preset maintains exceptional clarity even at lower volumes by:
 1. Go to **Preferences → Experimental Features**.
 2. Enable **Native Plugin Window**.
 3. In the MBC plugin, click **Show Native Window** to view the real-time processing.
-
+4. Tip: In the LSP MBC window, use the **Zoom** slider (to the right of the graph) and drag it all the way down to see detailed band movements.
 
 **Why This Matters:**
 
