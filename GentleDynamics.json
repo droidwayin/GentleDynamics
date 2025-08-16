@@ -11,7 +11,7 @@
             "mode": "BWC (BT)",
             "output-gain": 0.0,
             "quality": 0.8999999761581421,
-            "slope": "x8",
+            "slope": "x6",
             "type": "High-pass",
             "width": 4.0
         },
