@@ -33,7 +33,7 @@
             "mode": "Herm Thin",
             "output-gain": -0.2,
             "oversampling": "Full x8(3L)",
-            "release": 20.0,
+            "release": 16.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
             "threshold": -1.4999999999999998
@@ -52,7 +52,7 @@
                 "mute": false,
                 "ratio": 1.149999976158142,
                 "release-threshold": -100.0,
-                "release-time": 400.0,
+                "release-time": 300.0,
                 "sidechain-custom-highcut-filter": true,
                 "sidechain-custom-lowcut-filter": true,
                 "sidechain-highcut-frequency": 100.0,
