@@ -1,3 +1,5 @@
+**V4: Replaced Equalizer with Filter plugin for 25 Hz high-pass filter. Reduced latency to 10.6 ms.**
+
 ## 🌟 Introduction
 This EasyEffects preset uses psychoacoustic principles to enhance your music listening experience. It features an 8-band multiband compressor (MBC) aligned with human hearing (Bark scale) for natural sound improvement on both headphones and speakers.
 
@@ -112,25 +114,13 @@ The MBC significantly reduces listening fatigue during long sessions because:
 
 Result: Music feels more natural to follow, with less ear fatigue.
 
-## Why Only 1 EQ Band? (High-Pass Filter)
-
-This preset uses just one EQ band (**25 Hz high-pass filter**) because the 8-band compressor dynamically adjusts all frequencies in real-time, making additional EQ adjustments unnecessary and potentially disruptive to its natural sound enhancement. The high-pass filter also eases the MBC’s processing by removing unwanted low-end frequencies.
-
-**Key Reasons:**
-
-- 🎛️ **The MBC acts like a "Smart EQ":** It constantly fine-tunes frequencies based on the source music instantly and dynamically.  
-- ⚖️ **Avoids Double-Processing:** Adding EQ would fight the compressor's natural adjustments  
-- 🔊 **Headroom Protection:** The 25 Hz filter removes damaging sub-bass rumble
-
-*Note: The EQ is set to FIR mode for better sound quality (adds some latency); switch to IIR for lower latency at a noticable trade-off in quality.*
-
 ## 🌟 **The Final Truth**  
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
 
 
-## Multiband Compressor Parameters (V3)
+## Multiband Compressor Parameters (V4)
 
 | Band | Frequency range (Hz) | Split (upper) Hz | Sidechain low (Hz) | Sidechain high (Hz) | Mode     | Attack Thresh (dB) | Attack (ms) | Release (ms) | Ratio |
 | ---- | -------------------: | ---------------: | -----------------: | ------------------: | -------- | -----------------: | ----------: | -----------: | ----: |
