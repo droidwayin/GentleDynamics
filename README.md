@@ -119,18 +119,3 @@ This isn't EQ – it's dynamic range optimization using hearing science. Like cl
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
 
-
-## Multiband Compressor Parameters (V4)
-
-| Band | Frequency range (Hz) | Split (upper) Hz | Sidechain low (Hz) | Sidechain high (Hz) | Mode     | Attack Thresh (dB) | Attack (ms) | Release (ms) | Ratio |
-| ---- | -------------------: | ---------------: | -----------------: | ------------------: | -------- | -----------------: | ----------: | -----------: | ----: |
-| 1    |              0 – 100 |              100 |               25.0 |               100.0 | Upward   |             -42.00 |       100.0 |        400.0 |  1.12 |
-| 2    |            100 – 200 |              200 |              100.0 |               200.0 | Downward |             -20.00 |        60.0 |        180.0 |  1.85 |
-| 3    |            200 – 400 |              400 |              200.0 |               400.0 | Downward |             -18.00 |        40.0 |        160.0 |  1.65 |
-| 4    |            400 – 800 |              800 |              400.0 |               800.0 | Downward |             -16.00 |        30.0 |        140.0 |  1.55 |
-| 5    |           800 – 1600 |             1600 |              800.0 |              1600.0 | Downward |             -15.00 |        25.0 |        120.0 |  1.45 |
-| 6    |          1600 – 3200 |             3200 |             1600.0 |              3200.0 | Downward |             -14.00 |        20.0 |        100.0 |  1.35 |
-| 7    |          3200 – 8000 |             8000 |             3200.0 |              8000.0 | Upward   |             -28.00 |        10.0 |         80.0 |  1.06 |
-| 8    |         8000 – 20000 |      20000 (top) |             8000.0 |             20000.0 | Upward   |             -32.00 |         5.0 |         60.0 |  1.04 |
-
-
