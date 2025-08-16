@@ -33,7 +33,7 @@
             "mode": "Herm Thin",
             "output-gain": 0.0,
             "oversampling": "Full x8(3L)",
-            "release": 16.0,
+            "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
             "threshold": -2.0
