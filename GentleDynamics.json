@@ -79,7 +79,7 @@
                 "mute": false,
                 "ratio": 1.850000023841858,
                 "release-threshold": -100.0,
-                "release-time": 180.0,
+                "release-time": 200.0,
                 "sidechain-custom-highcut-filter": true,
                 "sidechain-custom-lowcut-filter": true,
                 "sidechain-highcut-frequency": 200.0,
