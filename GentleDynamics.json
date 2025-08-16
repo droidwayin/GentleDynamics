@@ -5,12 +5,12 @@
             "balance": 0.0,
             "bypass": false,
             "equal-mode": "FIR",
-            "frequency": 25.0,
+            "frequency": 20.0,
             "gain": 0.0,
             "input-gain": 0.0,
             "mode": "BWC (BT)",
             "output-gain": 0.0,
-            "quality": 1.0,
+            "quality": 0.8999999761581421,
             "slope": "x8",
             "type": "High-pass",
             "width": 4.0
@@ -36,11 +36,11 @@
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -2.0
+            "threshold": -0.5999999642372131
         },
         "multiband_compressor#0": {
             "band0": {
-                "attack-threshold": -42.000003814697266,
+                "attack-threshold": -40.0,
                 "attack-time": 100.0,
                 "boost-amount": 5.999999046325684,
                 "boost-threshold": -72.0,
@@ -50,14 +50,14 @@
                 "knee": 0.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.1200000047683716,
+                "ratio": 1.149999976158142,
                 "release-threshold": -100.0,
                 "release-time": 400.0,
                 "sidechain-custom-highcut-filter": true,
                 "sidechain-custom-lowcut-filter": true,
                 "sidechain-highcut-frequency": 100.0,
                 "sidechain-lookahead": 0.0,
-                "sidechain-lowcut-frequency": 25.0,
+                "sidechain-lowcut-frequency": 20.0,
                 "sidechain-mode": "RMS",
                 "sidechain-preamp": 0.0,
                 "sidechain-reactivity": 10.0,
@@ -234,7 +234,7 @@
                 "stereo-split-source": "Left/Right"
             },
             "band7": {
-                "attack-threshold": -32.0,
+                "attack-threshold": -34.0,
                 "attack-time": 5.0,
                 "boost-amount": 5.999999046325684,
                 "boost-threshold": -72.0,
