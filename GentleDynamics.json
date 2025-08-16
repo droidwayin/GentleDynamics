@@ -1,42 +1,19 @@
 {
     "output": {
         "blocklist": [],
-        "equalizer#0": {
+        "filter#0": {
             "balance": 0.0,
             "bypass": false,
+            "equal-mode": "FIR",
+            "frequency": 25.0,
+            "gain": 0.0,
             "input-gain": 0.0,
-            "left": {
-                "band0": {
-                    "frequency": 25.0,
-                    "gain": 0.0,
-                    "mode": "BWC (BT)",
-                    "mute": false,
-                    "q": 0.699999988079071,
-                    "slope": "x4",
-                    "solo": false,
-                    "type": "Hi-pass",
-                    "width": 4.0
-                }
-            },
-            "mode": "FIR",
-            "num-bands": 1,
+            "mode": "BWC (BT)",
             "output-gain": 0.0,
-            "pitch-left": 0.0,
-            "pitch-right": 0.0,
-            "right": {
-                "band0": {
-                    "frequency": 25.0,
-                    "gain": 0.0,
-                    "mode": "BWC (BT)",
-                    "mute": false,
-                    "q": 0.699999988079071,
-                    "slope": "x4",
-                    "solo": false,
-                    "type": "Hi-pass",
-                    "width": 4.0
-                }
-            },
-            "split-channels": false
+            "quality": 1.0,
+            "slope": "x8",
+            "type": "High-pass",
+            "width": 4.0
         },
         "level_meter#0": {
             "bypass": false
@@ -56,7 +33,7 @@
             "mode": "Herm Thin",
             "output-gain": 0.0,
             "oversampling": "Full x8(3L)",
-            "release": 20.0,
+            "release": 16.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
             "threshold": -2.0
@@ -294,7 +271,7 @@
             "wet": 0.0
         },
         "plugins_order": [
-            "equalizer#0",
+            "filter#0",
             "multiband_compressor#0",
             "limiter#0",
             "level_meter#0"
