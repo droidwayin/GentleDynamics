@@ -1,4 +1,4 @@
-**V4: The Equalizer was replaced with a Filter plugin implementing a 25 Hz high-pass filter, reducing latency to 10.6 ms.**
+> V4: The Equalizer was replaced with a Filter plugin implementing a 20 Hz high-pass filter, reducing latency to 10.6 ms.
 
 ## 🌟 Introduction
 This EasyEffects preset uses psychoacoustic principles to enhance your music listening experience. It features an 8-band multiband compressor (MBC) aligned with human hearing (Bark scale) for natural sound improvement on both headphones and speakers.
