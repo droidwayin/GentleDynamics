@@ -31,12 +31,12 @@
             "input-gain": 0.0,
             "lookahead": 8.0,
             "mode": "Herm Thin",
-            "output-gain": -0.5,
+            "output-gain": -0.2,
             "oversampling": "Full x8(3L)",
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -1.2000001668930054
+            "threshold": -1.4999999999999998
         },
         "multiband_compressor#0": {
             "band0": {
