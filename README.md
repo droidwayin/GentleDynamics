@@ -27,7 +27,7 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 ## 🎧 For Headphone Users (Important)
 Place your AutoEQ headset correction profile (if you have any) **after** the MBC:<br><br>
-Source → [25Hz EQ Filter] → [8-Band MBC] → [Your AutoEQ Profile] → [Limiter] → Output
+Source → [18Hz EQ Filter] → [8-Band MBC] → [Your AutoEQ Profile] → [Limiter] → Output
 
 **Why This Order Matters**
 
@@ -40,7 +40,7 @@ Your headphones get the full benefit of psychoacoustic processing.
 ## 🔍 Hearing the Difference
 
 **Quick Test Method:**
-1. Play familiar music [Song](https://www.youtube.com/watch?v=oq5X2G5qKQI) [Song](https://www.youtube.com/watch?v=V9PVRfjEBTI)
+1. Play familiar music [Song](https://www.youtube.com/watch?v=tGv7CUutzqU) [Song](https://www.youtube.com/watch?v=V9PVRfjEBTI)
 2. Toggle MBC on/off while listening
 3. Notice these changes:
 
@@ -75,7 +75,7 @@ This preset maintains exceptional clarity even at lower volumes by:
 1. Go to **Preferences → Experimental Features**.
 2. Enable **Native Plugin Window**.
 3. In the MBC plugin, click **Show Native Window** to view the real-time processing.
-> Tip: In the LSP MBC window, use the **Zoom** slider (to the right of the graph) and drag it all the way down to see detailed band movements.
+> Tip: In the LSP MBC window, use the **Zoom** slider (to the right of the graph) and drag it all the way down and maximize the window to see detailed band movements.
 
 **Why This Matters:**
 
