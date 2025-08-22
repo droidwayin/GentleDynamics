@@ -36,7 +36,7 @@
             "release": 16.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -0.5
+            "threshold": -2.0
         },
         "maximizer#0": {
             "bypass": false,
