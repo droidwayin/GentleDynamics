@@ -1,14 +1,6 @@
 {
     "output": {
         "blocklist": [],
-        "convolver#0": {
-            "autogain": true,
-            "bypass": false,
-            "input-gain": 0.0,
-            "ir-width": 100,
-            "kernel-name": "Sennheiser HD 450BT minimum phase 44100Hz oratory1990",
-            "output-gain": 0.0
-        },
         "filter#0": {
             "balance": 0.0,
             "bypass": false,
@@ -288,7 +280,6 @@
         "plugins_order": [
             "filter#0",
             "multiband_compressor#0",
-            "convolver#0",
             "maximizer#0",
             "limiter#0",
             "level_meter#0"
