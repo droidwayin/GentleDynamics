@@ -134,5 +134,5 @@ This isn't EQ – it's dynamic range optimization using hearing science. Like cl
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
 
-## 🌟 Every star helps. If these profiles improved your daily listening, leaving one makes me truly happy :)
+## 🌟 If these profiles improved your daily listening, leaving one star makes me truly happy :)
 
