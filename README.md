@@ -29,7 +29,7 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 This profile is created for effortless, all-day listening. It transforms your music into a smooth, consistent, and polished experience, much like a **high-quality FM radio broadcast** or a **premium car audio system**. By applying a second layer of gentle loudness maximization after the core dynamic processing, it enhances the overall level and consistency without introducing harshness or fatigue. The result is a rich, engaging, and **commercial-grade sound** that lets you enjoy your entire music library at a comfortable, sustained volume. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
 
-## The Difference Between Profiles
+## 🔀 The Difference Between Profiles
 
 ### **GentleDynamics**
 - Focused on **pure, uncolored dynamic restoration** and **clarity**  
