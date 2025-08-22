@@ -21,7 +21,7 @@
         "limiter#0": {
             "alr": false,
             "alr-attack": 45.0,
-            "alr-knee": 2.0,
+            "alr-knee": 2.000000238418579,
             "alr-release": 120.0,
             "attack": 0.25,
             "bypass": false,
@@ -31,7 +31,7 @@
             "input-gain": 0.0,
             "lookahead": 8.0,
             "mode": "Herm Thin",
-            "output-gain": 0.0,
+            "output-gain": -0.5,
             "oversampling": "Full x8(3L)",
             "release": 16.0,
             "sidechain-preamp": 0.0,
