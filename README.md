@@ -27,7 +27,18 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 ## 📻 GentleDynamics Radio Sound V4 (Profile)
 
-This variation is created for effortless, all-day listening, aiming for a smooth, consistent, and polished experience reminiscent of a **high-quality broadcast**. Perfect for enjoying your entire music library with **commercial-grade loudness and flow**, it works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
+This profile is created for effortless, all-day listening. It transforms your music into a smooth, consistent, and polished experience, much like a **high-quality FM radio broadcast** or a **premium car audio system**. By applying a second layer of gentle loudness maximization after the core dynamic processing, it enhances the overall level and consistency without introducing harshness or fatigue. The result is a rich, engaging, and **commercial-grade sound** that lets you enjoy your entire music library at a comfortable, sustained volume. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
+
+## The Difference Between Profiles
+
+### **GentleDynamics**
+- Focused on **pure, uncolored dynamic restoration** and **clarity**  
+- Ideal for **critical listening**
+
+### **GentleDynamics Radio Sound**
+- Builds upon the original profile  
+- Adds **loudness maximization** for a more impactful and consistent *"commercial-grade"* sound  
+- Ideal for **casual and extended listening sessions**
 
 ## 🎧 For Headphone Users (Important)
 Place your AutoEQ headset correction profile (if you have any) **after** the MBC:<br><br>
