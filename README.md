@@ -25,7 +25,7 @@ This preset uses scientifically-backed principles to enhance your listening expe
 Start with **-6 dB** system volume when first enabling.  
 Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
-## 📻 GentlyDynamics Radio Sound V4 (Profile)
+## 📻 GentleDynamics Radio Sound V4 (Profile)
 
 This variation is created for effortless, all-day listening, aiming for a smooth, consistent, and polished experience reminiscent of a **high-quality broadcast**. Perfect for enjoying your entire music library with **commercial-grade loudness and flow**, it works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
 
