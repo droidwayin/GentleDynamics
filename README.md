@@ -129,7 +129,7 @@ The MBC significantly reduces listening fatigue during long sessions because:
 
 Result: Music feels more natural to follow, with less ear fatigue.
 
-## 🌟 **The Final Truth**  
+## 🧩 **The Final Truth**  
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
