@@ -19,7 +19,7 @@
             "bypass": false
         },
         "limiter#0": {
-            "alr": true,
+            "alr": false,
             "alr-attack": 45.0,
             "alr-knee": 2.0,
             "alr-release": 120.0,
@@ -36,7 +36,7 @@
             "release": 16.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": 0.0
+            "threshold": -0.5
         },
         "maximizer#0": {
             "bypass": false,
@@ -280,8 +280,8 @@
         "plugins_order": [
             "filter#0",
             "multiband_compressor#0",
-            "limiter#0",
             "maximizer#0",
+            "limiter#0",
             "level_meter#0"
         ]
     }
