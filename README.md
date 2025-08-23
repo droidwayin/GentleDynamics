@@ -27,11 +27,9 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 ## 📻 GentleDynamics Feather Loudness V4 (Profile)
 
-> The goal here is achieving a gentle, subtle nudge, but not a loudness boost. Toggle compressor plugin on/off to differentiate.
+> The goal here is achieving a gentle, subtle nudge, but not a loudness boost. Toggle compressor plugin on/off to differentiate. Start this profile 10 points below your usual volume.
 
-Whether you're working, relaxing, or enjoying your music collection, this preset delivers a commercially polished and musical sound that lets you focus on the music itself effortlessly. Much like a **high-quality FM radio broadcast** or a **premium car audio system**. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound. I mainly pair this profile with external speakers and an analog amp to achieve that rich, commercially loud sound. 
-
-*"Start this profile with -10% from your usual volume."*
+Whether you’re working, relaxing, or listening to music, this preset gives you a smooth, polished sound, like a high-quality FM broadcast or premium car audio system. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound. I mainly pair this profile with external speakers and an analog amp to achieve that rich, commercially loud sound. 
 
 ## 🔀 The Difference Between Profiles
 
