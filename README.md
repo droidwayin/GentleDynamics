@@ -37,7 +37,7 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 - Focused on **pure, uncolored dynamic restoration** and **clarity**
 - For transparent, high-fidelity listening that preserves the original dynamics and intent of your music.
 
-### **GentleDynamics Radio Sound**
+### **GentleDynamics Feather Loudness**
 - Builds upon the original profile  
 - Adds **loudness maximization** for a more impactful and consistent *"commercial-grade"* sound  
 - Ideal for **casual and extended listening sessions**
