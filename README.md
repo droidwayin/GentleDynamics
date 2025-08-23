@@ -25,7 +25,9 @@ This preset uses scientifically-backed principles to enhance your listening expe
 Start with **-6 dB** system volume when first enabling.  
 Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
-## 📻 GentleDynamics Radio Sound V4 (Work in Progress - Profile)
+## 📻 GentleDynamics Radio Sound V4 (Profile)
+
+- Start this profile with -10% from your usual volume.
 
 Whether you're working, relaxing, or enjoying your music collection, this preset delivers a commercially polished and musical sound that lets you focus on the music itself effortlessly. Much like a **high-quality FM radio broadcast** or a **premium car audio system**. By applying a second layer of gentle loudness maximization after the core dynamic processing, it enhances the overall level and consistency without introducing harshness or fatigue. The result is a rich, engaging, and **commercial-grade** sound that lets you enjoy your entire music library at a comfortable, sustained volume. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound. I mainly pair this profile with external speakers and an analog amp to achieve that rich, commercially loud sound. 
 
