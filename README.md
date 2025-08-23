@@ -27,9 +27,9 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 ## 📻 GentleDynamics Feather Loudness V4 (Profile)
 
->This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume.
+Whether you’re working, relaxing, or listening to music, this preset gives you a smooth, polished sound, like a high-quality FM broadcast or premium car audio system. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to headphones with AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
 
-Whether you’re working, relaxing, or listening to music, this preset gives you a smooth, polished sound, like a high-quality FM broadcast or premium car audio system. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound. I mainly pair this profile with external speakers and an analog amp to achieve that rich, commercially loud sound. 
+>This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume. Place your AutoEQ headset correction profile (if you have any) **after** the MBC: Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output
 
 ## 🔀 The Difference Between Profiles
 
@@ -44,7 +44,7 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 ## 🎧 For Headphone Users (Important)
 Place your AutoEQ headset correction profile (if you have any) **after** the MBC:<br><br>
-Source → [18Hz EQ Filter] → [8-Band MBC] → [Your AutoEQ Profile] → [Limiter] → Output
+Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Limiter] → Output
 
 **Why This Order Matters**
 
