@@ -39,7 +39,7 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 ### **GentleDynamics Feather Loudness**
 - Builds upon the original profile  
-- Adds **loudness maximization** for a more impactful and consistent *"commercial-grade"* sound  
+- Lifts loudness for a more impactful and consistent *"commercial-grade"* sound  
 - Ideal for **casual and extended listening sessions**
 
 ## 🎧 For Headphone Users (Important)
