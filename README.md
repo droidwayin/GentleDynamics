@@ -54,7 +54,7 @@ Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [
 
 Your headphones get the full benefit of psychoacoustic processing.
 
-## 🔍 Hearing the Difference
+## 🤎🧸🍂 Hearing the Difference
 
 **Quick Test Method:**
 1. Play familiar music [Song](https://www.youtube.com/watch?v=tGv7CUutzqU) [Song](https://www.youtube.com/watch?v=V9PVRfjEBTI) [Song](https://www.youtube.com/watch?v=GmOMuBYEejc&t=14s)
