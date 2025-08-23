@@ -49,12 +49,25 @@
         "level_meter#0": {
             "bypass": false
         },
-        "maximizer#0": {
+        "limiter#0": {
+            "alr": false,
+            "alr-attack": 3.0,
+            "alr-knee": 0.0,
+            "alr-release": 50.0,
+            "attack": 0.25,
             "bypass": false,
+            "dithering": "24bit",
+            "external-sidechain": false,
+            "gain-boost": false,
             "input-gain": 0.0,
-            "output-gain": -1.0,
-            "release": 80.0,
-            "threshold": -1.0
+            "lookahead": 8.0,
+            "mode": "Herm Thin",
+            "output-gain": -0.6,
+            "oversampling": "Full x8(3L)",
+            "release": 16.0,
+            "sidechain-preamp": 0.0,
+            "stereo-link": 100.0,
+            "threshold": -2.000000238418579
         },
         "multiband_compressor#0": {
             "band0": {
@@ -292,7 +305,7 @@
             "filter#0",
             "multiband_compressor#0",
             "compressor#0",
-            "maximizer#0",
+            "limiter#0",
             "level_meter#0"
         ]
     }
