@@ -10,14 +10,14 @@
             "hpf-frequency": 120.0,
             "hpf-mode": "24 dB/oct",
             "input-gain": 0.0,
-            "knee": -3.999999761581421,
+            "knee": -6.0,
             "lpf-frequency": 8000.0,
             "lpf-mode": "24 dB/oct",
-            "makeup": 4.0,
+            "makeup": 1.5,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 2.5,
-            "release": 180.0,
+            "ratio": 1.1000000000000099,
+            "release": 200.0,
             "release-threshold": -25.0,
             "sidechain": {
                 "lookahead": 0.0,
@@ -29,7 +29,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -14.0,
+            "threshold": -16.0,
             "wet": 0.0
         },
         "filter#0": {
@@ -67,7 +67,7 @@
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -2.5
+            "threshold": -3.0
         },
         "multiband_compressor#0": {
             "band0": {
