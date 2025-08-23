@@ -100,7 +100,7 @@ This preset maintains exceptional clarity even at lower volumes by:
 - **Speakers:** Benefits rooms by controlling resonances and improving clarity  
 - **Brain Adaptation:** Effects become more natural sounding after 15–60 minutes of listening
 
-## Brain Interpretation
+## ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ Brain Interpretation
 
 When enabling MBC, you'll experience:
 
