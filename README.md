@@ -25,11 +25,13 @@ This preset uses scientifically-backed principles to enhance your listening expe
 Start with **-6 dB** system volume when first enabling.  
 Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
-## 📻 GentleDynamics Radio Sound V4 (Profile)
+## 📻 GentleDynamics Feather Loudness V4 (Profile)
 
-- Start this profile with -10% from your usual volume.
+> The goal here is achieving a gentle, subtle nudge, but not a loudness boost. Toggle compressor plugin on/off to differentiate.
 
 Whether you're working, relaxing, or enjoying your music collection, this preset delivers a commercially polished and musical sound that lets you focus on the music itself effortlessly. Much like a **high-quality FM radio broadcast** or a **premium car audio system**. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound. I mainly pair this profile with external speakers and an analog amp to achieve that rich, commercially loud sound. 
+
+*"Start this profile with -10% from your usual volume."*
 
 ## 🔀 The Difference Between Profiles
 
