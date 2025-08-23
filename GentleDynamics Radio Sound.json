@@ -17,7 +17,7 @@
             "mode": "Downward",
             "output-gain": 0.0,
             "ratio": 2.5,
-            "release": 150.0,
+            "release": 180.0,
             "release-threshold": -25.0,
             "sidechain": {
                 "lookahead": 0.0,
@@ -62,12 +62,12 @@
             "input-gain": 0.0,
             "lookahead": 8.0,
             "mode": "Herm Thin",
-            "output-gain": -0.6,
+            "output-gain": -0.5,
             "oversampling": "Full x8(3L)",
-            "release": 16.0,
+            "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -2.000000238418579
+            "threshold": -2.5
         },
         "multiband_compressor#0": {
             "band0": {
@@ -192,7 +192,7 @@
                 "knee": -3.999999761581421,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.4500000476837158,
+                "ratio": 1.4,
                 "release-threshold": -100.0,
                 "release-time": 120.0,
                 "sidechain-custom-highcut-filter": true,
