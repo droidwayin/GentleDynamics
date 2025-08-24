@@ -27,7 +27,7 @@ This preset uses scientifically-backed principles to enhance your listening expe
 Start with **-6 dB** system volume when first enabling.  
 Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
-## 📻 GentleDynamics Feather Loudness V4 (Gentler and Sweeter Preset for Music ❤️‍🩹 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 4:10)
+## 📻 GentleDynamics Feather Loudness V4 (Gentler and Sweeter Preset for Music ❤️‍🩹) ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 4:10
 
 Whether you’re working, relaxing, or listening to music, this preset gives you a smooth, polished sound, like a high-quality FM broadcast or premium car audio system. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to headphones with AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
 
@@ -138,5 +138,5 @@ This isn't EQ – it's dynamic range optimization using hearing science. Like cl
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
 
-## 🌟 If these profiles improved your daily listening, leaving one star makes me truly happy :) ــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ
+## 🌟 If these presets improved your daily listening, leaving one star makes me truly happy :) ــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ
 
