@@ -39,6 +39,8 @@ This preset employs surgical compression techniques to solve the common problem 
 
 You get consistent, intelligible speech without sacrificing the original artistic intent. Explosions, musical scores, and ambient soundscapes remain almost untouched, preserving the dynamic, theatrical experience the creators intended.
 
+If you want to test this profile, I suggest Dune and Prisoners (2013)
+
 > 🔊 Set your volume to half of what you normally use for movies, and raise the volume until it feels comfortable to you. If you have any AutoEQ profile place it above the limiter plugin.
 
 ## 👀 The Difference Between Profiles (Music)
