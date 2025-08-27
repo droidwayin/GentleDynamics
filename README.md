@@ -33,7 +33,13 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 >This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume.<br><br> Place your AutoEQ headset correction profile (if you have any) **after** the MBC: <br>Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output <br><br> ⋆.˚🦋༘⋆
 
-## 👀 The Difference Between Profiles
+## GentleDynamics Movie Dialogue Leveler
+
+This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain and Equalizer. 
+
+You get consistent, intelligible speech without sacrificing the original artistic intent. Explosions, musical scores, and ambient soundscapes remain almost untouched, preserving the dynamic, theatrical experience the creators intended.
+
+## 👀 The Difference Between Profiles (Music)
 
 ### **GentleDynamics**
 - Focused on **pure, uncolored dynamic restoration** and **clarity**
@@ -137,6 +143,4 @@ Result: Music feels more natural to follow, with less ear fatigue.
 This isn't EQ – it's dynamic range optimization using hearing science. Like cleaning a window.  
 The result? Your music sounds more like itself – just clearer, more balanced, and easier to enjoy for hours.  
 No magic, just science.
-
-## 🌟 If these presets improved your daily listening, leaving one star makes me truly happy :) ــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ
-
+##  ــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ
