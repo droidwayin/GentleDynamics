@@ -33,7 +33,7 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 >This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume.<br><br> Place your AutoEQ headset correction profile (if you have any) **after** the MBC: <br>Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output <br><br> ⋆.˚🦋༘⋆
 
-## 🎬 GentleDynamics Dialogue Clarity Engine 🗣️
+## 🎬 GentleDynamics Dialogue Clarity Engine (Movie) 🗣️
 
 This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain and Equalizer. 
 
