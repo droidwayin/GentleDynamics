@@ -29,7 +29,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -22.0,
+            "threshold": -24.0,
             "wet": 0.0
         },
         "compressor#1": {
@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -2.5,
-            "ratio": 4.0,
+            "ratio": 5.0,
             "release": 150.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -68,17 +68,17 @@
             "boost-amount": 5.999999046325684,
             "boost-threshold": -60.0,
             "bypass": false,
-            "dry": -100.0,
+            "dry": 0.0,
             "hpf-frequency": 100.0,
             "hpf-mode": "12 dB/oct",
-            "input-gain": 0.0,
+            "input-gain": -0.5,
             "knee": -24.0,
             "lpf-frequency": 10000.0,
             "lpf-mode": "12 dB/oct",
             "makeup": 0.0,
             "mode": "Downward",
-            "output-gain": 0.0,
-            "ratio": 1.5,
+            "output-gain": -0.5,
+            "ratio": 1.6,
             "release": 300.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -92,7 +92,7 @@
             },
             "stereo-split": false,
             "threshold": -22.0,
-            "wet": 0.0
+            "wet": -35.0
         },
         "filter#0": {
             "balance": 0.0,
@@ -106,6 +106,20 @@
             "quality": 0.7,
             "slope": "x4",
             "type": "High-pass",
+            "width": 4.0
+        },
+        "filter#1": {
+            "balance": 0.0,
+            "bypass": false,
+            "equal-mode": "FIR",
+            "frequency": 10000.0,
+            "gain": 0.7,
+            "input-gain": 0.0,
+            "mode": "RLC (BT)",
+            "output-gain": 0.0,
+            "quality": 0.699999988079071,
+            "slope": "x1",
+            "type": "High-shelf",
             "width": 4.0
         },
         "level_meter#0": {
@@ -136,6 +150,7 @@
             "compressor#0",
             "compressor#1",
             "compressor#2",
+            "filter#1",
             "limiter#0",
             "level_meter#0"
         ]
