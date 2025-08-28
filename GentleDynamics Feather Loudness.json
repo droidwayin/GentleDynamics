@@ -6,8 +6,8 @@
             "boost-amount": 1.499999761581421,
             "boost-threshold": -60.0,
             "bypass": false,
-            "dry": -100.0,
-            "hpf-frequency": 150.0,
+            "dry": 2.7755575615628914e-17,
+            "hpf-frequency": 200.0,
             "hpf-mode": "24 dB/oct",
             "input-gain": 0.0,
             "knee": -6.0,
@@ -15,22 +15,22 @@
             "lpf-mode": "24 dB/oct",
             "makeup": 1.0,
             "mode": "Downward",
-            "output-gain": 0.0,
-            "ratio": 1.08,
+            "output-gain": -0.2,
+            "ratio": 1.5,
             "release": 180.0,
             "release-threshold": -25.0,
             "sidechain": {
                 "lookahead": 0.0,
                 "mode": "RMS",
                 "preamp": 0.0,
-                "reactivity": 40.0,
+                "reactivity": 30.0,
                 "source": "Middle",
                 "stereo-split-source": "Left/Right",
                 "type": "Feed-forward"
             },
             "stereo-split": false,
             "threshold": -14.0,
-            "wet": 0.0
+            "wet": -25.0
         },
         "filter#0": {
             "balance": 0.0,
@@ -46,6 +46,20 @@
             "type": "High-pass",
             "width": 4.0
         },
+        "filter#1": {
+            "balance": 0.0,
+            "bypass": false,
+            "equal-mode": "FIR",
+            "frequency": 10000.0,
+            "gain": 0.3,
+            "input-gain": 0.0,
+            "mode": "RLC (BT)",
+            "output-gain": 0.0,
+            "quality": 0.7,
+            "slope": "x1",
+            "type": "High-shelf",
+            "width": 4.0
+        },
         "level_meter#0": {
             "bypass": false
         },
@@ -54,7 +68,7 @@
             "alr-attack": 3.0,
             "alr-knee": 0.0,
             "alr-release": 50.0,
-            "attack": 0.25,
+            "attack": 1.0,
             "bypass": false,
             "dithering": "24bit",
             "external-sidechain": false,
@@ -67,7 +81,7 @@
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -3.0
+            "threshold": -2.8
         },
         "multiband_compressor#0": {
             "band0": {
@@ -192,7 +206,7 @@
                 "knee": -3.999999761581421,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.4,
+                "ratio": 1.4500000476837158,
                 "release-threshold": -100.0,
                 "release-time": 120.0,
                 "sidechain-custom-highcut-filter": true,
@@ -248,7 +262,7 @@
                 "knee": -6.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.04,
+                "ratio": 1.0399999618530273,
                 "release-threshold": -100.0,
                 "release-time": 80.0,
                 "sidechain-custom-highcut-filter": true,
@@ -276,7 +290,7 @@
                 "knee": -3.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.03,
+                "ratio": 1.0299999713897705,
                 "release-threshold": -100.0,
                 "release-time": 60.0,
                 "sidechain-custom-highcut-filter": true,
@@ -297,7 +311,7 @@
             "dry": -100.0,
             "envelope-boost": "None",
             "input-gain": 0.0,
-            "output-gain": 0.0,
+            "output-gain": -0.3,
             "stereo-split": false,
             "wet": 0.0
         },
@@ -305,6 +319,7 @@
             "filter#0",
             "multiband_compressor#0",
             "compressor#0",
+            "filter#1",
             "limiter#0",
             "level_meter#0"
         ]
