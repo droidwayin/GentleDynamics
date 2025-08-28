@@ -33,15 +33,15 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 >This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume.<br><br> Place your AutoEQ headset correction profile (if you have any) **after** the MBC: <br>Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output <br><br> ⋆.˚🦋༘⋆
 
-## 🎬 GentleDynamics Movie Dialogue Leveler 🗣️
+## 🎬 GentleDynamics Dialogue Clarity Engine 🗣️
 
 This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain and Equalizer. 
 
-You get consistent, intelligible speech without sacrificing the original artistic intent. Explosions, musical scores, and ambient soundscapes remain almost untouched, preserving the dynamic, theatrical experience the creators intended.
+**It does one thing**: it ensures the the dialogue is always clear, while faithfully respecting and preserving the the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech***.
 
-If you want to test this profile, I suggest Dune and Prisoners (2013)
+**🔊 Set your volume to a level where dialogue feels comfortable to hear. The rest of the sound will adjust dynamically**. If you have any AutoEQ profile place it above the limiter plugin.
 
-> 🔊 Set your volume to half of what you normally use for movies, and raise the volume until it feels comfortable to you. If you have any AutoEQ profile place it above the limiter plugin.
+*If you want to benchmark this preset, I suggest Dune and Prisoners (2013)*
 
 ## 👀 The Difference Between Profiles (Music)
 
