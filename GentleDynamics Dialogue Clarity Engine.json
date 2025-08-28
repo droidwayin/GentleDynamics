@@ -103,7 +103,7 @@
             "input-gain": 0.0,
             "mode": "BWC (BT)",
             "output-gain": 0.0,
-            "quality": 0.7,
+            "quality": 0.699999988079071,
             "slope": "x4",
             "type": "High-pass",
             "width": 4.0
@@ -113,7 +113,7 @@
             "bypass": false,
             "equal-mode": "FIR",
             "frequency": 10000.0,
-            "gain": 0.7,
+            "gain": 0.3,
             "input-gain": 0.0,
             "mode": "RLC (BT)",
             "output-gain": 0.0,
@@ -143,7 +143,7 @@
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -2.000000238418579
+            "threshold": -3.0
         },
         "plugins_order": [
             "filter#0",
