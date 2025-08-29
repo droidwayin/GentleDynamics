@@ -29,7 +29,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -24.0,
+            "threshold": -25.0,
             "wet": 0.0
         },
         "compressor#1": {
@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -2.0,
-            "ratio": 5.0,
+            "ratio": 6.5,
             "release": 150.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -60,7 +60,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -22.0,
+            "threshold": -24.0,
             "wet": -5.0
         },
         "compressor#2": {
@@ -91,8 +91,8 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -22.0,
-            "wet": -35.0
+            "threshold": -23.0,
+            "wet": -27.0
         },
         "filter#0": {
             "balance": 0.0,
