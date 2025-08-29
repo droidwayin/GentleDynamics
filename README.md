@@ -36,7 +36,7 @@ This preset employs surgical compression techniques to solve the common problem 
 
 **It does one thing**: it ensures the the dialogue is always clear, while faithfully respecting and preserving the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech*** closer to EBU R 128 standards.
 
-**🔊 Set your volume based on the loudest moments. Dialogue will stay clear and easy to hear, even in movies like Dune with quiet whispers and loud action.
+🔊 **Set your volume based on the loudest moments. Dialogue will stay clear and easy to hear, even in movies like Dune with quiet whispers and loud action.**
 
 >If you have any AutoEQ profile place it above the limiter plugin.
 
