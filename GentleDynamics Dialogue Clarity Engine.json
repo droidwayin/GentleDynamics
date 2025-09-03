@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 3.2,
+            "ratio": 1.5,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -78,7 +78,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 1.7,
+            "ratio": 1.5,
             "release": 300.0,
             "release-threshold": -100.0,
             "sidechain": {
