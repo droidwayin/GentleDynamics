@@ -442,7 +442,7 @@
             "bypass": false,
             "delay": 0.0,
             "input-gain": 0.0,
-            "middle-level": 0.9,
+            "middle-level": 1.0,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
@@ -452,9 +452,9 @@
             "phaser": false,
             "sc-level": 1.0,
             "side-balance": 0.0,
-            "side-level": 0.8,
+            "side-level": 1.0,
             "softclip": false,
-            "stereo-base": 0.12,
+            "stereo-base": 0.08,
             "stereo-phase": 0.0
         }
     }
