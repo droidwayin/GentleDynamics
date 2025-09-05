@@ -162,13 +162,13 @@
                 },
                 "band4": {
                     "frequency": 10500.0,
-                    "gain": 0.40000006556510925,
+                    "gain": 0.3000000000000001,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.5,
                     "slope": "x2",
                     "solo": false,
-                    "type": "Bell",
+                    "type": "Hi-shelf",
                     "width": 4.0
                 }
             },
@@ -224,13 +224,13 @@
                 },
                 "band4": {
                     "frequency": 10500.0,
-                    "gain": 0.40000006556510925,
+                    "gain": 0.3000000000000001,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.5,
                     "slope": "x2",
                     "solo": false,
-                    "type": "Bell",
+                    "type": "Hi-shelf",
                     "width": 4.0
                 }
             },
@@ -279,20 +279,6 @@
             "type": "High-pass",
             "width": 4.0
         },
-        "filter#1": {
-            "balance": 0.0,
-            "bypass": false,
-            "equal-mode": "IIR",
-            "frequency": 10500.0,
-            "gain": 0.4,
-            "input-gain": 0.0,
-            "mode": "RLC (BT)",
-            "output-gain": 0.0,
-            "quality": 1.5,
-            "slope": "x2",
-            "type": "High-shelf",
-            "width": 4.0
-        },
         "level_meter#0": {
             "bypass": false
         },
@@ -324,31 +310,8 @@
             "compressor#1",
             "compressor#2",
             "deesser#0",
-            "filter#1",
-            "stereo_tools#0",
             "limiter#0",
             "level_meter#0"
-        ],
-        "stereo_tools#0": {
-            "balance-in": 0.0,
-            "balance-out": 0.0,
-            "bypass": false,
-            "delay": 0.0,
-            "input-gain": 0.0,
-            "middle-level": 1.0,
-            "middle-panorama": 0.0,
-            "mode": "LR > LR (Stereo Default)",
-            "mutel": false,
-            "muter": false,
-            "output-gain": 0.0,
-            "phasel": false,
-            "phaser": false,
-            "sc-level": 1.0,
-            "side-balance": 0.0,
-            "side-level": 1.0,
-            "softclip": false,
-            "stereo-base": 0.08,
-            "stereo-phase": 0.0
-        }
+        ]
     }
 }
