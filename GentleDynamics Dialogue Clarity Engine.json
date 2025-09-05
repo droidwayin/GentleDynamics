@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 3.0,
+            "ratio": 2.8,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -78,7 +78,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -4.0,
-            "ratio": 2.2,
+            "ratio": 2.5,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -92,7 +92,7 @@
             },
             "stereo-split": false,
             "threshold": -24.0,
-            "wet": -4.0
+            "wet": -3.999999761581421
         },
         "deesser#0": {
             "bypass": false,
@@ -124,7 +124,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 1.8,
+            "ratio": 1.7999999523162842,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
