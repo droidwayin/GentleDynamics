@@ -237,24 +237,24 @@
             "split-channels": false
         },
         "expander#0": {
-            "attack": 60.0,
+            "attack": 45.0,
             "bypass": false,
             "dry": -100.0,
-            "hpf-frequency": 90.0,
+            "hpf-frequency": 120.0,
             "hpf-mode": "12 dB/oct",
             "input-gain": 0.0,
-            "knee": -9.0,
+            "knee": -6.0,
             "lpf-frequency": 20000.0,
-            "lpf-mode": "off",
+            "lpf-mode": "12 dB/oct",
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 2.0,
+            "ratio": 1.7999999523162842,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
                 "lookahead": 2.0,
-                "mode": "RMS",
+                "mode": "Peak",
                 "preamp": 0.0,
                 "reactivity": 120.0,
                 "source": "Middle",
@@ -262,7 +262,7 @@
                 "type": "Internal"
             },
             "stereo-split": false,
-            "threshold": -40.0,
+            "threshold": -50.0,
             "wet": 0.0
         },
         "filter#0": {
