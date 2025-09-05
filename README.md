@@ -38,7 +38,7 @@ This preset ensures the dialogue is always clear, while respecting the dynamics 
 
 🔊 **Set your volume based on the loudest moments, at a moderate level where it isn't overwhelming for you.** Dialogue will remain clear and easy to hear, even in movies like Dune or Tenet, where quiet whispers contrast with loud action scenes.
 
->If you have any AutoEQ profile place it above the limiter plugin.
+>If you are using an AutoEQ profile, place it above the limiter plugin; set the preamp/input gain as recommended on the AutoEQ headphone correction page.
 
 ## 👀 The Difference Between Profiles (Music)
 
