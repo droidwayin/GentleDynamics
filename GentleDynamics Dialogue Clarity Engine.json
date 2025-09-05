@@ -64,7 +64,7 @@
             "wet": 0.0
         },
         "compressor#2": {
-            "attack": 30.0,
+            "attack": 80.0,
             "boost-amount": 5.999999046325684,
             "boost-threshold": -60.0,
             "bypass": false,
@@ -92,7 +92,7 @@
             },
             "stereo-split": false,
             "threshold": -24.0,
-            "wet": -3.999999761581421
+            "wet": -3.9999999999999996
         },
         "deesser#0": {
             "bypass": false,
@@ -109,7 +109,7 @@
             "output-gain": 0.0,
             "ratio": 5.0,
             "sc-listen": false,
-            "threshold": -28.0
+            "threshold": -24.0
         },
         "equalizer#0": {
             "balance": 0.0,
