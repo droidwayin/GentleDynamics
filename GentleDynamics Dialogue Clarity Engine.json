@@ -7,7 +7,7 @@
             "boost-threshold": -60.0,
             "bypass": false,
             "dry": -100.0,
-            "hpf-frequency": 200.0,
+            "hpf-frequency": 250.0,
             "hpf-mode": "12 dB/oct",
             "input-gain": 0.0,
             "knee": -8.0,
@@ -33,7 +33,7 @@
             "wet": 0.0
         },
         "compressor#1": {
-            "attack": 60.0,
+            "attack": 45.0,
             "boost-amount": 1.0,
             "boost-threshold": -60.0,
             "bypass": false,
