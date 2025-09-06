@@ -78,7 +78,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -2.0,
-            "ratio": 2.200000047683716,
+            "ratio": 2.0,
             "release": 400.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -92,7 +92,7 @@
             },
             "stereo-split": false,
             "threshold": -25.0,
-            "wet": -6.0
+            "wet": -5.0
         },
         "deesser#0": {
             "bypass": false,
@@ -300,7 +300,7 @@
             "release": 20.0,
             "sidechain-preamp": 0.0,
             "stereo-link": 100.0,
-            "threshold": -1.5
+            "threshold": -2.5
         },
         "plugins_order": [
             "expander#0",
@@ -310,8 +310,30 @@
             "compressor#2",
             "equalizer#0",
             "deesser#0",
+            "stereo_tools#0",
             "limiter#0",
             "level_meter#0"
-        ]
+        ],
+        "stereo_tools#0": {
+            "balance-in": 0.0,
+            "balance-out": 0.0,
+            "bypass": false,
+            "delay": 0.0,
+            "input-gain": 0.0,
+            "middle-level": 0.9,
+            "middle-panorama": 0.0,
+            "mode": "LR > LR (Stereo Default)",
+            "mutel": false,
+            "muter": false,
+            "output-gain": 0.0,
+            "phasel": false,
+            "phaser": false,
+            "sc-level": 1.0,
+            "side-balance": 0.0,
+            "side-level": 1.0,
+            "softclip": false,
+            "stereo-base": 0.3,
+            "stereo-phase": 0.0
+        }
     }
 }
