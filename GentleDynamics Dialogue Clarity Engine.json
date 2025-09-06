@@ -2,7 +2,7 @@
     "output": {
         "blocklist": [],
         "compressor#0": {
-            "attack": 80.0,
+            "attack": 30.0,
             "boost-amount": 0.0,
             "boost-threshold": -60.0,
             "bypass": false,
@@ -13,7 +13,7 @@
             "knee": -12.0,
             "lpf-frequency": 3800.0,
             "lpf-mode": "12 dB/oct",
-            "makeup": 2.0,
+            "makeup": 2.000000238418579,
             "mode": "Upward",
             "output-gain": 0.0,
             "ratio": 2.5,
@@ -29,7 +29,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -24.0,
+            "threshold": -26.0,
             "wet": 0.0
         },
         "compressor#1": {
@@ -91,7 +91,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -24.0,
+            "threshold": -26.0,
             "wet": -3.9999999999999996
         },
         "deesser#0": {
