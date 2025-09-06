@@ -7,11 +7,11 @@
             "boost-threshold": -60.0,
             "bypass": false,
             "dry": -100.0,
-            "hpf-frequency": 220.0,
+            "hpf-frequency": 200.0,
             "hpf-mode": "12 dB/oct",
             "input-gain": 0.0,
-            "knee": -12.0,
-            "lpf-frequency": 3800.0,
+            "knee": -8.0,
+            "lpf-frequency": 3600.0,
             "lpf-mode": "12 dB/oct",
             "makeup": 2.000000238418579,
             "mode": "Upward",
@@ -33,7 +33,7 @@
             "wet": 0.0
         },
         "compressor#1": {
-            "attack": 80.0,
+            "attack": 60.0,
             "boost-amount": 1.0,
             "boost-threshold": -60.0,
             "bypass": false,
@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 2.8,
+            "ratio": 2.5,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -60,7 +60,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -20.0,
+            "threshold": -22.0,
             "wet": 0.0
         },
         "compressor#2": {
@@ -72,13 +72,13 @@
             "hpf-frequency": 150.0,
             "hpf-mode": "12 dB/oct",
             "input-gain": 0.0,
-            "knee": -18.0,
+            "knee": -12.0,
             "lpf-frequency": 20000.0,
             "lpf-mode": "12 dB/oct",
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -4.0,
-            "ratio": 2.5,
+            "ratio": 2.2,
             "release": 250.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -92,7 +92,7 @@
             },
             "stereo-split": false,
             "threshold": -26.0,
-            "wet": -3.9999999999999996
+            "wet": -6.0
         },
         "deesser#0": {
             "bypass": false,
@@ -140,10 +140,10 @@
                 },
                 "band2": {
                     "frequency": 2400.0,
-                    "gain": 0.5999996066093445,
+                    "gain": 0.8,
                     "mode": "RLC (BT)",
                     "mute": false,
-                    "q": 1.2000000476837158,
+                    "q": 1.0,
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
@@ -162,11 +162,11 @@
                 },
                 "band4": {
                     "frequency": 10500.0,
-                    "gain": 0.3000000000000001,
+                    "gain": 0.5,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.5,
-                    "slope": "x2",
+                    "slope": "x1",
                     "solo": false,
                     "type": "Hi-shelf",
                     "width": 4.0
@@ -202,10 +202,10 @@
                 },
                 "band2": {
                     "frequency": 2400.0,
-                    "gain": 0.5999996066093445,
+                    "gain": 0.8,
                     "mode": "RLC (BT)",
                     "mute": false,
-                    "q": 1.2000000476837158,
+                    "q": 1.0,
                     "slope": "x1",
                     "solo": false,
                     "type": "Bell",
@@ -224,11 +224,11 @@
                 },
                 "band4": {
                     "frequency": 10500.0,
-                    "gain": 0.3000000000000001,
+                    "gain": 0.5,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 1.5,
-                    "slope": "x2",
+                    "slope": "x1",
                     "solo": false,
                     "type": "Hi-shelf",
                     "width": 4.0
