@@ -38,7 +38,8 @@ This preset ensures the dialogue is always clear, while respecting the dynamics 
 
 🔊 **Set your volume based on the loudest moments, at a moderate level where it isn't overwhelming for you.** Dialogue will remain clear and easy to hear, even in movies like Dune or Tenet, where quiet whispers contrast with loud action scenes.
 
->If you are using an AutoEQ profile, place it above the limiter plugin. A -3 dB gain reduction is already applied at the third compressor. If your AutoEQ profile requires additional preamp reduction, subtract only the remaining amount from that -3 dB at the AutoEQ correction plugin. For example, if the AutoEQ profile calls for a -6 dB preamp reduction, you only need to apply -3 dB at the AutoEQ correction plugin.
+**Headphone Correction Howto**:
+If you are using an AutoEQ profile, place it above the limiter plugin. A -4 dB gain reduction is already applied at the third compressor. If your AutoEQ profile requires additional preamp reduction, apply only the difference at the AutoEQ correction plugin. For example, if the AutoEQ profile calls for a -6 dB preamp reduction, set -2 dB at the AutoEQ correction plugin. Make sure Autogain is off.
 
 ## 👀 The Difference Between Profiles (Music)
 
