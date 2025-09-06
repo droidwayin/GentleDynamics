@@ -77,7 +77,7 @@
             "lpf-mode": "12 dB/oct",
             "makeup": 0.0,
             "mode": "Downward",
-            "output-gain": -3.0,
+            "output-gain": -4.0,
             "ratio": 2.5,
             "release": 250.0,
             "release-threshold": -100.0,
