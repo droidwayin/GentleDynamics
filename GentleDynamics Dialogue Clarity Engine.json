@@ -332,7 +332,7 @@
             "side-balance": 0.0,
             "side-level": 1.0,
             "softclip": false,
-            "stereo-base": 0.3,
+            "stereo-base": 0.0,
             "stereo-phase": 0.0
         }
     }
