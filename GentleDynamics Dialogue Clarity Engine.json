@@ -7,11 +7,11 @@
             "boost-threshold": -60.0,
             "bypass": false,
             "dry": 0.0,
-            "hpf-frequency": 100.0,
+            "hpf-frequency": 150.0,
             "hpf-mode": "12 dB/oct",
             "input-gain": 0.0,
             "knee": -12.0,
-            "lpf-frequency": 20000.0,
+            "lpf-frequency": 10000.0,
             "lpf-mode": "12 dB/oct",
             "makeup": 0.0,
             "mode": "Downward",
@@ -31,14 +31,6 @@
             "stereo-split": false,
             "threshold": -20.0,
             "wet": -5.0
-        },
-        "convolver#0": {
-            "autogain": false,
-            "bypass": false,
-            "input-gain": -3.0,
-            "ir-width": 100,
-            "kernel-name": "Sennheiser HD 450BT minimum phase 48000Hz Rtings",
-            "output-gain": 0.0
         },
         "deesser#0": {
             "bypass": false,
@@ -488,7 +480,6 @@
             "equalizer#0",
             "deesser#0",
             "stereo_tools#0",
-            "convolver#0",
             "limiter#0",
             "level_meter#0"
         ],
