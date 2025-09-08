@@ -16,7 +16,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -3.0,
-            "ratio": 1.5,
+            "ratio": 2.5,
             "release": 400.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -29,8 +29,16 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -25.0,
+            "threshold": -20.0,
             "wet": -5.0
+        },
+        "convolver#0": {
+            "autogain": false,
+            "bypass": false,
+            "input-gain": -3.0,
+            "ir-width": 100,
+            "kernel-name": "Sennheiser HD 450BT minimum phase 48000Hz Rtings",
+            "output-gain": 0.0
         },
         "deesser#0": {
             "bypass": false,
@@ -305,7 +313,7 @@
                 "enable-band": true,
                 "external-sidechain": false,
                 "knee": -8.0,
-                "makeup": 4.64768270424123e-310,
+                "makeup": 0.0,
                 "mute": false,
                 "ratio": 3.0,
                 "release-threshold": -45.0,
@@ -480,6 +488,7 @@
             "equalizer#0",
             "deesser#0",
             "stereo_tools#0",
+            "convolver#0",
             "limiter#0",
             "level_meter#0"
         ],
