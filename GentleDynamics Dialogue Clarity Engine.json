@@ -16,7 +16,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 2.2,
+            "ratio": 2.35,
             "release": 300.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -3.0,
-            "ratio": 2.2,
+            "ratio": 2.35,
             "release": 400.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -61,7 +61,7 @@
             },
             "stereo-split": false,
             "threshold": -25.0,
-            "wet": -4.0
+            "wet": -6.0
         },
         "deesser#0": {
             "bypass": false,
@@ -338,12 +338,12 @@
                 "knee": -8.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 2.0,
+                "ratio": 2.15,
                 "release-threshold": -35.0,
-                "release-time": 350.0,
+                "release-time": 400.0,
                 "sidechain-custom-highcut-filter": true,
                 "sidechain-custom-lowcut-filter": true,
-                "sidechain-highcut-frequency": 3600.0,
+                "sidechain-highcut-frequency": 3500.0,
                 "sidechain-lookahead": 3.0,
                 "sidechain-lowcut-frequency": 300.0,
                 "sidechain-mode": "RMS",
@@ -373,13 +373,13 @@
                 "sidechain-custom-lowcut-filter": true,
                 "sidechain-highcut-frequency": 8000.0,
                 "sidechain-lookahead": 3.0,
-                "sidechain-lowcut-frequency": 3800.0,
+                "sidechain-lowcut-frequency": 3500.0,
                 "sidechain-mode": "RMS",
                 "sidechain-preamp": 0.0,
                 "sidechain-reactivity": 80.0,
                 "sidechain-source": "Middle",
                 "solo": false,
-                "split-frequency": 3800.0,
+                "split-frequency": 3500.0,
                 "stereo-split-source": "Left/Right"
             },
             "band4": {
@@ -521,7 +521,7 @@
             "bypass": false,
             "delay": 0.0,
             "input-gain": 0.0,
-            "middle-level": 0.9,
+            "middle-level": 1.0,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
@@ -531,7 +531,7 @@
             "phaser": false,
             "sc-level": 1.0,
             "side-balance": 0.0,
-            "side-level": 1.0,
+            "side-level": 0.9,
             "softclip": false,
             "stereo-base": 0.0,
             "stereo-phase": 0.0
