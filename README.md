@@ -32,9 +32,7 @@ Whether you’re working, relaxing, or listening to music, this preset gives you
 
 ## 🎬 GentleDynamics Dialogue Clarity Engine (Movie) 🗣️
 
-This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain. 
-
-This preset ensures the dialogue is always clear, while respecting the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech*** closer to EBU R 128 standards.
+This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain. This preset ensures the dialogue is always clear, while respecting the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech***.
 
 🔊 **Set your volume based on the loudest moments, at a moderate level where it isn't overwhelming for you.** Dialogue will remain clear and easy to hear, even in movies like Dune or Tenet, where quiet whispers contrast with loud action scenes. **🔧 Tip:** If you want to allow **more dynamics** and **louder, punchier action scenes**, **turn off the first compressor that comes after the multiband compressor**. This gives action sequences more impact while keeping quieter moments intelligible.
 
