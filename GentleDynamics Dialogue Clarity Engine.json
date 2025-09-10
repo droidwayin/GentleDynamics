@@ -338,7 +338,7 @@
                 "knee": -8.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 2.15,
+                "ratio": 2.5,
                 "release-threshold": -35.0,
                 "release-time": 400.0,
                 "sidechain-custom-highcut-filter": true,
