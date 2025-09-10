@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -3.0,
-            "ratio": 2.35,
+            "ratio": 2.5,
             "release": 400.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -60,7 +60,7 @@
                 "type": "Feed-forward"
             },
             "stereo-split": false,
-            "threshold": -25.0,
+            "threshold": -27.0,
             "wet": -6.0
         },
         "deesser#0": {
