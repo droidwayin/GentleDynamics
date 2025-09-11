@@ -45,7 +45,7 @@ Allow **48 hours** for your brain to fully adapt to the new sound stage.
 
 Whether you’re working, relaxing, or listening to music, this preset gives you a smooth, polished sound, like a high-quality FM broadcast or premium car audio system. It works superbly to bring life to generic headphones or to add a final layer of professional sheen to headphones with AutoEQ-corrected profiles. You may also pair it with an external amplifier and speakers to achieve that full, impactful sound.
 
->This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume. Set the input gain for your headset correction profile plugin to about half the amount recommended by your AutoEQ profile.<br><br> Place your AutoEQ headset correction profile (if you have any) **after** the MBC: <br>Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output <br><br> ⋆.˚🦋༘⋆
+>This preset aims for a gentle lift in loudness, not heavy boosting. Toggle the compressor on/off to hear the difference, or use the bypass button in EasyEffects to compare the full effect. Start 10 points below your usual volume. <br><br> Place your AutoEQ headset correction profile (if you have any) **after** the MBC: <br>Source → [18Hz EQ Filter] → [8-Band MBC] → **[Your AutoEQ Profile]** → [Compressor] → [Limiter] → Output <br>*Set the input gain for your headset correction profile plugin to about half the amount recommended by your AutoEQ profile*.<br><br> ⋆.˚🦋༘⋆
 
 
 ## 👀 The Difference Between Profiles (Music)
