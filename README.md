@@ -9,12 +9,12 @@
 
 > If you experience any abnormal sound processing after loading this profile, use "Enable/Disable the global bypass" button in EasyEffects.
 
-This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies. Unlike traditional loudness normalization that raises the entire volume, often exaggerating noise and crushing impactful sounds, this chain works intelligently without using AutoGain. This preset ensures the dialogue is always clear, while respecting the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech***.
+This preset employs surgical compression techniques to solve the common problem of fluctuating dialogue levels in modern movies without using AutoGain. This preset ensures the dialogue is always clear, while respecting the dynamics and impact of the original soundtrack. You get consistent, ***intelligible speech***.
 
 🔊 **Set your volume based on the loudest moments, at a moderate level where it isn't overwhelming for you.** Dialogue will remain clear and easy to hear, even in movies like Dune or Tenet, where quiet whispers contrast with loud action scenes. <br><br> **🔧 Tip:** If you want to allow **more dynamics** and **louder, punchier action scenes**, **turn off the first compressor that comes after the multiband compressor**. This gives action sequences more impact (*but increase overall loudness and the ratio between quiet and loud parts*) while keeping quieter moments intelligible.
 
 **Headphone Correction How-To**:<br>
-If you are using an AutoEQ profile, place it **above the limiter plugin**. Make sure **Autogain is off** if you are using a convolver plugin for headphone correctin. If you choose to disable the compressor after the multiband compressor, you may need to **lower the input gain for headphone correction** to about **half of the preamp reduction** that your AutoEQ profile calls for. Otherwise, you can set the input gain at **zero dB**.
+If you are using an AutoEQ profile, place it **above the limiter plugin**. 
 
 ## 🥹 Introduction to Music Presets
 This EasyEffects preset based on psychoacoustic principles to enhance your music listening experience. It features an 8-band multiband compressor (MBC) aligned with human hearing (Bark scale) for natural sound improvement on both headphones and speakers.
