@@ -16,7 +16,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": 0.0,
-            "ratio": 2.0,
+            "ratio": 2.35,
             "release": 300.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -47,7 +47,7 @@
             "makeup": 0.0,
             "mode": "Downward",
             "output-gain": -2.0,
-            "ratio": 2.5,
+            "ratio": 2.35,
             "release": 400.0,
             "release-threshold": -100.0,
             "sidechain": {
@@ -336,7 +336,7 @@
                 "enable-band": true,
                 "external-sidechain": false,
                 "knee": -8.0,
-                "makeup": 0.0,
+                "makeup": 1.5,
                 "mute": false,
                 "ratio": 2.5,
                 "release-threshold": -35.0,
@@ -496,12 +496,12 @@
             },
             "bypass": false,
             "compressor-mode": "Modern",
-            "dry": -100.0,
+            "dry": 0.0,
             "envelope-boost": "None",
             "input-gain": 0.0,
             "output-gain": 0.0,
             "stereo-split": false,
-            "wet": 0.0
+            "wet": -6.0
         },
         "plugins_order": [
             "expander#0",
