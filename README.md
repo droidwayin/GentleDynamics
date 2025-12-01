@@ -74,7 +74,7 @@ Your headphones get the full benefit of psychoacoustic processing.
 ## 🤎🧸🍂 Hearing the Difference
 
 **Quick Test Method:**
-1. Play your familiar music [Song 1](https://www.youtube.com/watch?v=tGv7CUutzqU) [Song 2](https://www.youtube.com/watch?v=V9PVRfjEBTI) [Song 3](https://www.youtube.com/watch?v=GmOMuBYEejc&t=14s) [Song 4](https://www.youtube.com/watch?v=Nsrygut8X6U) [Milkshake](https://www.youtube.com/watch?v=6AwXKJoKJz4) [Song 6](https://www.youtube.com/watch?v=oKxuiw3iMBE) [Song 7](https://youtu.be/cswfR85D7jM?t=17) [Song 8](https://www.youtube.com/watch?v=S3fTw_D3l10) [Song 9](https://www.youtube.com/watch?v=flQxwSO-6so) [Song 10](https://www.youtube.com/watch?v=VSXT4a2kRHA) [Song 11](https://youtu.be/pzPElFdxMCM?t=28) [Song 1200](https://www.youtube.com/watch?v=ImKY6TZEyrI) [Song 1300](https://www.youtube.com/watch?v=NcVQ4bWC45Y) [Song 1400](https://www.youtube.com/watch?v=xMV6l2y67rk) [Song 1500](https://www.youtube.com/watch?v=3KflBbrUWCs) [Song 1600](https://youtu.be/x6Q7c9RyMzk?t=8) [Song 1800](https://youtu.be/1xYZeDReUz4?t=1) [Song 1900](https://youtu.be/2voCBpYfFI4?t=8) [Song 2000](https://youtu.be/TkM0Loq6P_E?t=6) 
+1. Play your familiar music [Now That's What I Call Music!](https://open.spotify.com/playlist/1PpphyXsNZclXkI5lhUyPE?si=bf34de5136e3438e)
 2. Toggle MBC on/off while listening
 3. Notice these changes:
 
